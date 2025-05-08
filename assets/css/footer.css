@@ -1,0 +1,11 @@
+.xgn-footer {
+    padding-left: 210px;
+    margin-top: 2rem;
+}
+.xgn-footer {
+    flex: 0 0 auto;
+}
+
+.xgn-footer-providers-image img:hover, .xgn-footer-payments-image img:hover {
+    filter: none;
+}
