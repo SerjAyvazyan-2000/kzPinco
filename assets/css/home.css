@@ -824,6 +824,8 @@ td ul {
     cursor: pointer;
     margin: 20px 0 0 20px;
     padding-top: 72px;
+    position: relative;
+    z-index: 3;
 }
 
 .xgn-section-demo-back p {
